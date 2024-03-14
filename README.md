@@ -9,8 +9,8 @@
 
 ### <strong> Sobre mim:</strong> 
 
-Nascida e criada no Rio de Janeiro, 27 anos. Atualmente em transição de carreira.
-Estudante de Java e MySQL.
+Nascida e criada no Rio de Janeiro, 28 anos. Atualmente em transição de carreira.
+Estudante de Java.
  </div>
  <br>
 
@@ -41,6 +41,6 @@ Estudante de Java e MySQL.
 
 <br>  
 
-<a href="https://instagram.com/julianeandradess?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href= "mailto:julianeandradesilva@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" target="_blank"></a> <a href="https://web.dio.me/users/julianeandradesilva" target="_blank">![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)</a>
+<a href="https://instagram.com/julianeandradess?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href= "mailto:julianeandradesilva@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" target="_blank"></a> 
   
 </div> 
