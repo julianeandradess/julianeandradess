@@ -7,10 +7,9 @@
 
 ## Welcome to my profile.
 
-### <strong> Sobre mim:</strong> 
+### Sobre mim:
 
-Nascida e criada no Rio de Janeiro, 28 anos. Atualmente em transição de carreira.
-Estudante de Java.
+Nascida e criada no Rio de Janeiro, 28 anos. Estudante de Java, amante e super curiosa com toda a parte desenvolvimento no geral.
  </div>
  <br>
 
