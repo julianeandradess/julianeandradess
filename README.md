@@ -41,6 +41,6 @@ Estudante de Java.
 
 <br>  
 
-<a href="https://instagram.com/julianeandradess?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href= "mailto:julianeandradesilva@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" target="_blank"></a> 
+<a href="https://instagram.com/julianeandradess?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href= "mailto:julianeandradesilva@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" target="_blank"></a> <a href="https://www.linkedin.com/in/julianeandrade-dev/" target="_blank"><img src="https://img.shields.io/badge/Linkedlin-0000FF?style=for-the-badge&logo=linkedlin&logoColor=blue" target="_blank"></a>
   
 </div> 
