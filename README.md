@@ -8,8 +8,11 @@
 ## Welcome to my profile.
 
 ### Sobre mim:
+Comecei a trabalhar bem jovem, em eventos como recepcionista em eventos para um Buffet, bem informal. Fui assistente administrativo no Hospital do Câncer no RJ, após isso fui trabalhar com licitações, apesar de ter gostado muito, não me encontrei. Fui autónoma como consultora de 2018 até 2023 na área de Licitação, jurídico e administrativo.
+Fiz transição de carreira no final de 2023 após ter passado em um concurso que tanto quis, ter voltado minha atenção aos processos que infelizmente é demorado, então resolvi que não pararia minha vida. Então passei a estudar uma área que sempre tive interesse que foi Desenvolvimento de sistemas, me apaixonei por Java e cá estou em BackEnd.
+<br>
+Espero que gostem dos meus códigos e que de alguma forma ajude quem os visualiza.
 
-Nascida e criada no Rio de Janeiro, 28 anos. Estudante de Java, amante e super curiosa com toda a parte desenvolvimento no geral.
  </div>
  <br>
 
