@@ -1,8 +1,6 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=6714a6&height=120&section=heade)
-
 <div align="center">
 
-# Olá, meu nome é Juliane Andrade!
+![](https://capsule-render.vercel.app/api?text=JULIANE%20ANDRADE&fontColor=d6ace6&animation=fadeIn&type=waving&color=6714a6&height=130&section=heade)
 
 
 ## Welcome to my profile.
